@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey there, I'm Daniel!
 
-<!--
-**danielmoncada/danielmoncada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a **Full Stack Software Engineer** based in sunny **San Diego, CA** 🌴  
+Passionate about building clean, scalable, and performant software. Always exploring new tech!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working With
+
+**🧠 Frontend Frameworks:**  
+- Vue.js ⚡  
+- Angular 🅰️  
+
+**🛠️ Programming Languages:**  
+- C# 🔷  
+- Go 🐹  
+- Dart 🎯  
+- JavaScript 💛  
+- TypeScript 🔵  
+
+**📱 Cross-Platform Development:**  
+- Flutter 📱  
+- Electron 🖥️  
+
+---
+
+## 🎧 Outside of Code
+
+When I’m not coding, you can probably find me:  
+- 🏃‍♂️ Logging miles on roads or trails (yes, I'm a runner!)  
+- 🎵 Digging through crates for rare **vinyl records**  
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+
+Feel free to connect or reach out if you're into tech, music, or running!
+

@@ -34,6 +34,7 @@ When I’m not coding, you can probably find me:
 
 ## 📫 Let’s Connect
 
+- 📦 [npm](https://www.npmjs.com/~danielmoncada)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 
 Feel free to connect or reach out if you're into tech, music, or running!

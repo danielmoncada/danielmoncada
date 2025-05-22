@@ -1,7 +1,11 @@
 # 👋 Hey there, I'm Daniel!
 
-💻 I'm a **Full Stack Software Engineer** based in sunny **San Diego, CA** 🌴  
-Passionate about building clean, scalable, and performant software. Always exploring new tech!
+📍 Based in sunny **San Diego, CA** 🌴
+
+I'm a curious and creative full stack engineer who loves building intuitive, performant apps.  
+Whether it's a sleek frontend or a robust backend service, I enjoy solving real-world problems with code.
+
+![GitHub User Since](https://img.shields.io/badge/GitHub-since%202013-181717?logo=github)
 
 ---
 
@@ -24,6 +28,14 @@ Passionate about building clean, scalable, and performant software. Always explo
 
 ---
 
+## 🧰 Technologies I’ve Previously Used
+
+- WPF 🖼️  / XAML 📐  
+- Java ☕  
+- Android Development (native) 🤖  
+
+---
+
 ## 🎧 Outside of Code
 
 When I’m not coding, you can probably find me:  
@@ -32,10 +44,20 @@ When I’m not coding, you can probably find me:
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielmoncada&show_icons=true&theme=monokai)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=danielmoncada&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📫 Let’s Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/danielmoncada)  
+[![npm](https://img.shields.io/badge/npm-Profile-red?logo=npm)](https://www.npmjs.com/~danielmoncada)
+
 - 📦 [npm](https://www.npmjs.com/~danielmoncada)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielmoncada)  
 
 Feel free to connect or reach out if you're into tech, music, or running!
-
